@@ -7,6 +7,9 @@ Live Link : https://praava-intern-assignment.vercel.app/
 ![Desktop Light Mode](./demo-white.png)
 ![Desktop Dark Mode](./demo-black.png)
 
+
+##
+
 ## My Approach for this Assignment
 
 When I first saw the design, I knew the challenge would be balancing the "organized chaos" of the floating cards with a strict layout that doesn't feel cluttered on smaller screens. Here’s how I tackled it:
