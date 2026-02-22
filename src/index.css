@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --bg-primary: #ffffff;
+        --text-primary: #0F172A;
+    }
+
+    .dark {
+        --bg-primary: #020617;
+        --text-primary: #F8FAFC;
+    }
+
+    body {
+        @apply bg-white dark:bg-slate-950 text-slate-900 dark:text-slate-50 transition-colors duration-500 h-screen font-sans overflow-hidden;
+    }
+}
+
+@layer utilities {
+    .text-shadow-glow {
+        text-shadow: 0 0 20px rgba(79, 70, 229, 0.1);
+    }
+}
