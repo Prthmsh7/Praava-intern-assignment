@@ -1,8 +1,10 @@
 # Praava Legal Assessment - Prathmesh Shukla
 
-Hey! This is my implementation for the Legal Work Platform hero section assignment. I’ve focused on getting the UI to look "pixel-perfect" while keeping the code clean and the interactions smooth.
 
 Live Link : https://praava-intern-assignment.vercel.app/
+Hey! This is my implementation for the Legal Work Platform hero section assignment. I’ve focused on getting the UI to look "pixel-perfect" while keeping the code clean and the interactions smooth.
+
+
 ##
 ![Desktop Light Mode](./demo-white.png)
 ![Desktop Dark Mode](./demo-black.png)
